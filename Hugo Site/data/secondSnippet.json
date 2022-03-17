@@ -1,0 +1,28 @@
+{
+    "list_img":[
+        {
+            "img_link": "/img/image_2.jpg"
+        },
+        {
+            "img_link": "/img/image_3.jpg"
+        },
+        {
+            "img_link": "/img/image_4.jpg"
+        },
+        {
+            "img_link": "/img/image_5.jpg"
+        },
+        {
+            "img_link": "/img/image_6.jpg"
+        }
+    ],
+
+    "list_img_2":[
+        {
+            "img_link": "/img/image_8.jpg"
+        },
+        {
+            "img_link": "/img/image_9.jpg"
+        }
+    ]
+}
